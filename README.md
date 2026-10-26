@@ -48,4 +48,13 @@ The goal of this task is to configure a custom NAT Network, adjust hardware reso
   ```bash
   sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
   sudo nmcli connection down "Wired connection 1"
-  sudo nmcli connection up "Wired connection 1"
+  sudo nmcli connection up "Wired connection 1"<img width="587" height="388" alt="Screenshot 2026-10-25 233505" src="https://github.com/user-attachments/assets/1334e745-3522-401c-8110-101849e3ad39" />
+<img width="587" height="388" alt="Screenshot 2026-10-25 233010" src="https://github.com/user-attachments/assets/5d725ed4-311a-4c3c-8b6d-fd37f4a6d731" />
+<img width="960" height="504" alt="Screenshot 2026-10-25 232943" src="https://github.com/user-attachments/assets/d27e698d-fbea-4887-a79b-48c44aed7d8a" />
+<img width="960" height="504" alt="Screenshot 2026-10-25 211316" src="https://github.com/user-attachments/assets/368377d8-07bd-4b86-b74d-aa06c210010c" />
+<img width="960" height="504" alt="Screenshot 2026-10-25 211118" src="https://github.com/user-attachments/assets/5f1f0787-724b-468f-b1d8-7875af3a4e93" />
+<img width="960" height="504" alt="Screenshot 2026-10-25 211032" src="https://github.com/user-attachments/assets/e9ca4664-496d-44c3-a276-ab3cb9ce6687" />
+<img width="1920" height="892" alt="VirtualBox_KALI NETWORKWALK_25_10_2026_23_28_15" src="https://github.com/user-attachments/assets/5961b8ac-9fd1-4f6d-be8f-9cd391b32b6d" />
+<img width="1920" height="892" alt="VirtualBox_KALI NETWORKWALK_25_10_2026_23_22_44" src="https://github.com/user-attachments/assets/00f36244-f9d5-483c-aa26-705aee2e31bf" />
+
+
